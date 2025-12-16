@@ -8,4 +8,6 @@ All of the code was run using Google Colab.
 
 When using it, pay attention to replacing the corresponding folder path and the best model path.
 
-The study can be accessed through this link: https://doi.org/10.1016/j.ecoser.2025.101778
+The dataset of “Social media images of China’s terraces” is available at https://doi.org/10.6084/m9.figshare.28813259.v2
+
+The study titled "Using geo-data and social media images to explore the supply and demand of cultural ecosystem services for terraces in China" is available at https://doi.org/10.1016/j.ecoser.2025.101778
