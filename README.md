@@ -7,3 +7,5 @@ Model_for_TCES.pth is the best model trained.
 All of the code was run using Google Colab.
 
 When using it, pay attention to replacing the corresponding folder path and the best model path.
+
+The study can be accessed through this link: https://doi.org/10.1016/j.ecoser.2025.101778
